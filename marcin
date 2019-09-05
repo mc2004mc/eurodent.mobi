@@ -1,0 +1,6 @@
+echo „# eurodent.mobi” >> README.md 
+git init 
+git dodaj README.md 
+git commit -m „pierwsze zatwierdzenie” 
+git zdalne dodanie pochodzenia https://github.com/mc2004mc/eurodent.mobi.git
+ git push -u mistrz pochodzenia
